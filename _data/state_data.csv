@@ -1,0 +1,212 @@
+electoral_votes
+01,902,304,1105,606,5508,909,710,311,312,2913,1615,416,417,2018,1119,620,621,822,823,424,1025,1126,1627,1028,629,1030,331,532,633,434,1435,536,2937,1538,339,1840,741,742,2044,445,946,347,1148,3849,650,351,1353,1254,555,1056,3
+
+population
+01,485897902,73843204,682806505,297820406,3914481808,545657409,359088610,94593411,67222812,2027127213,1021486015,143160316,165493017,1285999518,661968019,312389920,291164121,442509222,467072423,132932824,600640125,679442226,992257627,548959428,299233329,608367230,103294931,189619032,289084533,133060834,895801335,208510936,1979579137,1004280238,75692739,1161342340,391133841,402897742,1280250344,105629845,489614646,85846947,660029948,2746911449,299591950,62604251,838299353,717035154,184412855,577133756,586107
+
+{
+  "01": {
+    "name_short": "AL",
+    "name": "ALABAMA"
+  },
+  "02": {
+    "name_short": "AK",
+    "name": "ALASKA"
+  },
+  "04": {
+    "name_short": "AZ",
+    "name": "ARIZONA"
+  },
+  "05": {
+    "name_short": "AR",
+    "name": "ARKANSAS"
+  },
+  "06": {
+    "name_short": "CA",
+    "name": "CALIFORNIA"
+  },
+  "08": {
+    "name_short": "CO",
+    "name": "COLORADO"
+  },
+  "09": {
+    "name_short": "CT",
+    "name": "CONNECTICUT"
+  },
+  "10": {
+    "name_short": "DE",
+    "name": "DELAWARE"
+  },
+  "11": {
+    "name_short": "DC",
+    "name": "DISTRICT OF COLUMBIA"
+  },
+  "12": {
+    "name_short": "FL",
+    "name": "FLORIDA"
+  },
+  "13": {
+    "name_short": "GA",
+    "name": "GEORGIA"
+  },
+  "15": {
+    "name_short": "HI",
+    "name": "HAWAII"
+  },
+  "16": {
+    "name_short": "ID",
+    "name": "IDAHO"
+  },
+  "17": {
+    "name_short": "IL",
+    "name": "ILLINOIS"
+  },
+  "18": {
+    "name_short": "IN",
+    "name": "INDIANA"
+  },
+  "19": {
+    "name_short": "IA",
+    "name": "IOWA"
+  },
+  "20": {
+    "name_short": "KS",
+    "name": "KANSAS"
+  },
+  "21": {
+    "name_short": "KY",
+    "name": "KENTUCKY"
+  },
+  "22": {
+    "name_short": "LA",
+    "name": "LOUISIANA"
+  },
+  "23": {
+    "name_short": "ME",
+    "name": "MAINE"
+  },
+  "24": {
+    "name_short": "MD",
+    "name": "MARYLAND"
+  },
+  "25": {
+    "name_short": "MA",
+    "name": "MASSACHUSETTS"
+  },
+  "26": {
+    "name_short": "MI",
+    "name": "MICHIGAN"
+  },
+  "27": {
+    "name_short": "MN",
+    "name": "MINNESOTA"
+  },
+  "28": {
+    "name_short": "MS",
+    "name": "MISSISSIPPI"
+  },
+  "29": {
+    "name_short": "MO",
+    "name": "MISSOURI"
+  },
+  "30": {
+    "name_short": "MT",
+    "name": "MONTANA"
+  },
+  "31": {
+    "name_short": "NE",
+    "name": "NEBRASKA"
+  },
+  "32": {
+    "name_short": "NV",
+    "name": "NEVADA"
+  },
+  "33": {
+    "name_short": "NH",
+    "name": "NEW HAMPSHIRE"
+  },
+  "34": {
+    "name_short": "NJ",
+    "name": "NEW JERSEY"
+  },
+  "35": {
+    "name_short": "NM",
+    "name": "NEW MEXICO"
+  },
+  "36": {
+    "name_short": "NY",
+    "name": "NEW YORK"
+  },
+  "37": {
+    "name_short": "NC",
+    "name": "NORTH CAROLINA"
+  },
+  "38": {
+    "name_short": "ND",
+    "name": "NORTH DAKOTA"
+  },
+  "39": {
+    "name_short": "OH",
+    "name": "OHIO"
+  },
+  "40": {
+    "name_short": "OK",
+    "name": "OKLAHOMA"
+  },
+  "41": {
+    "name_short": "OR",
+    "name": "OREGON"
+  },
+  "42": {
+    "name_short": "PA",
+    "name": "PENNSYLVANIA"
+  },
+  "44": {
+    "name_short": "RI",
+    "name": "RHODE ISLAND"
+  },
+  "45": {
+    "name_short": "SC",
+    "name": "SOUTH CAROLINA"
+  },
+  "46": {
+    "name_short": "SD",
+    "name": "SOUTH DAKOTA"
+  },
+  "47": {
+    "name_short": "TN",
+    "name": "TENNESSEE"
+  },
+  "48": {
+    "name_short": "TX",
+    "name": "TEXAS"
+  },
+  "49": {
+    "name_short": "UT",
+    "name": "UTAH"
+  },
+  "50": {
+    "name_short": "VT",
+    "name": "VERMONT"
+  },
+  "51": {
+    "name_short": "VA",
+    "name": "VIRGINIA"
+  },
+  "53": {
+    "name_short": "WA",
+    "name": "WASHINGTON"
+  },
+  "54": {
+    "name_short": "WV",
+    "name": "WEST VIRGINIA"
+  },
+  "55": {
+    "name_short": "WI",
+    "name": "WISCONSIN"
+  },
+  "56": {
+    "name_short": "WY",
+    "name": "WYOMING"
+  }
+}

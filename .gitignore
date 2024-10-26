@@ -1,0 +1,20 @@
+_documents
+_private
+_downloads
+logs
+nikki/_private
+nikki/nikki_beta.py
+nikki/models
+
+__pycache__
+models/_transformers
+models/all-MiniLM-L12-v2
+api.py
+*.pkl
+.venv
+_venv
+venv
+
+## Local venv file (may contain sensitive info)
+poetry.toml
+
