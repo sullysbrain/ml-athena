@@ -17,3 +17,6 @@ https://github.com/jacksonjude
 https://jaytimm
 
 
+## Notes
+Setting up each node to be named the same plus number in format 'gothamXX' for ease of adding bash functions to update all nodes at same time. Adding these scripts soon.
+
